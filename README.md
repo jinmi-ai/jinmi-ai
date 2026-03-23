@@ -342,8 +342,8 @@ Jinmi AI phù hợp với các doanh nghiệp đang muốn:
 
 **Tìm hiểu thêm về Jinmi AI:**
 
-- Website: `https://jinmi.ai`
-- Landing page sản phẩm: `https://jinmi.ai`
+- Website: https://jinmi.ai
+- Landing page sản phẩm: https://jinmi.ai
 - Email: `info@jinmi.ai`
 - Fanpage: https://www.facebook.com/JinmiAI.XRetail
 ---
