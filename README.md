@@ -25,7 +25,7 @@ Thuộc hệ sinh thái công nghệ của **XRETAIL**, Jinmi AI tập trung và
 ---
 
 ## Jinmi AI là gì?
-
+![markdown](https://github.com/jinmi-ai/jinmi-ai/blob/main/571665896_122148843602874016_8352261184625653499_n.jpg)
 Jinmi AI là một **AI ecosystem** dành cho doanh nghiệp Việt Nam và thị trường châu Á, giúp doanh nghiệp xây dựng năng lực vận hành với AI theo hướng thực tế và dễ triển khai.
 
 Thay vì chỉ dừng ở một chatbot trả lời tin nhắn, Jinmi AI mở rộng thành một hệ sinh thái gồm nhiều lớp:
