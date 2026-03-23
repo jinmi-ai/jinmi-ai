@@ -1,6 +1,6 @@
+![markdown](https://github.com/jinmi-ai/jinmi-ai/blob/main/z7633767841651_1da7f6c9ff816a9f84a4ac9c65ef0b31.jpg)
 
-
-[## Jinmi AI Ecosystem | Hệ sinh thái AI Chatbot, AI Callbot, CRM & Automation cho doanh nghiệp](https://github.com/jinmi-ai/jinmi-ai/blob/main/z7633767841651_1da7f6c9ff816a9f84a4ac9c65ef0b31.jpg)
+## Jinmi AI Ecosystem | Hệ sinh thái AI Chatbot, AI Callbot, CRM & Automation cho doanh nghiệp
 
 Jinmi AI là **hệ sinh thái giải pháp AI cho bán hàng, chăm sóc khách hàng, marketing và vận hành doanh nghiệp**, được phát triển để giúp doanh nghiệp **tăng tốc chuyển đổi số**, **tự động hóa quy trình**, **tối ưu hiệu suất đội ngũ**, và **nâng trải nghiệm khách hàng trên đa kênh**.
 
